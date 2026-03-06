@@ -82,7 +82,7 @@ export default function CreateAcct() {
       
       <p className="text-center mt-9 animate-slideup">
         Already have an account?{" "}
-        <a href="#" className="text-[#E48045] underline">
+        <a href="signin" className="text-[#E48045] underline">
           Sign in
         </a>
       </p>
